@@ -119,6 +119,7 @@ header{
     display: flex;
     justify-content: center;
     gap: 7px;
+
 }
 .breadcrumbs a:hover{
     color: #FFC725;
@@ -146,6 +147,7 @@ header{
     font-size: 79px;
     margin-top: 17px;
     margin-bottom: 20px;
+    font-family: 'Nunito Sans', sans-serif;
 }
 .description{
     font-family: 'Open Sans', sans-serif; 
