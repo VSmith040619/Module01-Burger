@@ -119,8 +119,8 @@ header{
     display: flex;
     justify-content: center;
     gap: 7px;
-
 }
+
 .breadcrumbs a:hover{
     color: #FFC725;
 }
